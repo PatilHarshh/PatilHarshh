@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Developer Who Loves to Deal With Complicated Programs.</h3>
 <img align="centre" alt="coding" width="400" src="https://user-images.githubusercontent.com/120102234/214835707-8a3e3b6b-cf74-4c7f-b165-5f757e565a59.png"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patilharshh" alt="patilharshh" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PatilHarshh&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 - 📫 How to reach me **harshpatil2956@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
